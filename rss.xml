@@ -1,0 +1,23 @@
+<rss version="2.0">
+<channel>
+<!-- Prólogo -->
+<title>RSS PÁGINA</title>
+<link>https://github.com/onkseal/Lenguajedemarcas/settings/pages</link>
+<description> Este es un canal reservado para el uso esclusivo del administrador de la página web </description>
+<category></category>
+<copyright>Todos los derechos reservados</copyright>
+<language>es-es</language>
+<lastBuildDate>Sun, 21 Mar 2025 12:15:00 +0100</lastBuildDate>
+<webMaster>costazamoradiego4@gmail.com</webMaster>
+<!--  Noticias del canal  -->
+<item>
+<title>Londres</title>
+<description>En este articulo podra entrar a mi perfil de github</description>
+<link>https://github.com/onkseal/Lenguajedemarcas</link>
+<author>costazamoradiego4@gmaiil.com</author>
+<category>londres</category>
+<pubDate>Sun, 15 May 2025 12:25:00 +0100</pubDate>
+</item>
+
+</channel>
+</rss>

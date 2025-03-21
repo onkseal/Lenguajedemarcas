@@ -1,0 +1,28 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://estherostos.github.io/proyectofhw/">
+<id>https://onkseal.github.io/Lenguajedemarcas/index.html</id>
+<title>atoms</title>
+<updated>2025-15-21T19:06:00+01:00</updated>
+<link rel="alternate" href="https://onkseal.github.io/Lenguajedemarcas/index.html"/>
+<author>
+<name>Esther Ostos Ostos</name>
+<email>ososes_iesma20@iesmedinaazahara.es</email>
+</author>
+<category term="Viajes ficticios"/>
+<contributor>
+<name>otro Autor</name>
+<email>otro@gmail.com</email>
+<uri>https://www.linkedin.com/in/otro</uri>
+</contributor>
+<logo>viajes.jpg</logo>
+<entry>
+<id>https://estherostos.github.io/proyectofhw/pages/londres.html</id>
+<title>Información sobre Londres</title>
+<update>2021-02-12T18:30:00+01:00</update>
+<author>
+<name>Esther Ostos Ostos</name>
+<email>ososes_iesma20@iesmedinaazahara.es</email>
+</author>
+<summary> En este artículo cutre encontraras casi ninguna información sobre Londres</summary>
+<link rel="alternate" href="https://estherostos.github.io/proyectofhw/pages/londres.html"/>
+</entry>
+</feed>
